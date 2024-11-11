@@ -1,0 +1,43 @@
+com.ryanheise.audioserviceexample.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 C:\Users\Cyber Fort\.gradle\caches\transforms-3\14118720b8adeae870b3b58da47436a8\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.ryanheise.audioserviceexample.app-core-1.13.1-1 C:\Users\Cyber Fort\.gradle\caches\transforms-3\1c3cf623dc58fa08bcef66b1bc69d240\transformed\core-1.13.1\res
+com.ryanheise.audioserviceexample.app-jetified-play-services-basement-18.0.0-2 C:\Users\Cyber Fort\.gradle\caches\transforms-3\1f23c1a54ce08196cbbcc4c104c95a03\transformed\jetified-play-services-basement-18.0.0\res
+com.ryanheise.audioserviceexample.app-fragment-1.7.1-3 C:\Users\Cyber Fort\.gradle\caches\transforms-3\38d6b62edeb146a67ad237c29428ddb3\transformed\fragment-1.7.1\res
+com.ryanheise.audioserviceexample.app-core-runtime-2.2.0-4 C:\Users\Cyber Fort\.gradle\caches\transforms-3\405f974a2e1154246e954f8face3055d\transformed\core-runtime-2.2.0\res
+com.ryanheise.audioserviceexample.app-jetified-savedstate-1.2.1-5 C:\Users\Cyber Fort\.gradle\caches\transforms-3\4ca6ce2b6aae641449cae46b4bb245c5\transformed\jetified-savedstate-1.2.1\res
+com.ryanheise.audioserviceexample.app-media-1.6.0-6 C:\Users\Cyber Fort\.gradle\caches\transforms-3\510e5e789ccc4b02a8be72de2277f0cd\transformed\media-1.6.0\res
+com.ryanheise.audioserviceexample.app-jetified-startup-runtime-1.1.1-7 C:\Users\Cyber Fort\.gradle\caches\transforms-3\573e3a6692f999204646ec6bdf64b2df\transformed\jetified-startup-runtime-1.1.1\res
+com.ryanheise.audioserviceexample.app-lifecycle-viewmodel-2.7.0-8 C:\Users\Cyber Fort\.gradle\caches\transforms-3\617a1288b147f0525056c82efaa04518\transformed\lifecycle-viewmodel-2.7.0\res
+com.ryanheise.audioserviceexample.app-jetified-activity-1.8.1-9 C:\Users\Cyber Fort\.gradle\caches\transforms-3\617f97e267583796a481435528d7729d\transformed\jetified-activity-1.8.1\res
+com.ryanheise.audioserviceexample.app-jetified-tracing-1.2.0-10 C:\Users\Cyber Fort\.gradle\caches\transforms-3\6edf5bce042331dbc17f44d2f73f8863\transformed\jetified-tracing-1.2.0\res
+com.ryanheise.audioserviceexample.app-jetified-core-1.0.0-11 C:\Users\Cyber Fort\.gradle\caches\transforms-3\8577b10151366c138dca5d5389ce711b\transformed\jetified-core-1.0.0\res
+com.ryanheise.audioserviceexample.app-lifecycle-livedata-2.7.0-12 C:\Users\Cyber Fort\.gradle\caches\transforms-3\952b5635bbf903e5735a84f98a4aab3f\transformed\lifecycle-livedata-2.7.0\res
+com.ryanheise.audioserviceexample.app-jetified-window-java-1.2.0-13 C:\Users\Cyber Fort\.gradle\caches\transforms-3\98ea685f7bab663ba628b972c1496322\transformed\jetified-window-java-1.2.0\res
+com.ryanheise.audioserviceexample.app-jetified-profileinstaller-1.3.1-14 C:\Users\Cyber Fort\.gradle\caches\transforms-3\9a03867321653e0b93e80fd2ec2fc697\transformed\jetified-profileinstaller-1.3.1\res
+com.ryanheise.audioserviceexample.app-jetified-annotation-experimental-1.4.0-15 C:\Users\Cyber Fort\.gradle\caches\transforms-3\9f3542ea3800dca4fe9004063ba5c7cd\transformed\jetified-annotation-experimental-1.4.0\res
+com.ryanheise.audioserviceexample.app-lifecycle-runtime-2.7.0-16 C:\Users\Cyber Fort\.gradle\caches\transforms-3\aa070b9355da3e52faeb65d809eb89cc\transformed\lifecycle-runtime-2.7.0\res
+com.ryanheise.audioserviceexample.app-jetified-media2-session-1.2.1-17 C:\Users\Cyber Fort\.gradle\caches\transforms-3\affa54452d89de1f8fb39847caef3337\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audioserviceexample.app-jetified-lifecycle-livedata-core-ktx-2.7.0-18 C:\Users\Cyber Fort\.gradle\caches\transforms-3\b74947a29703d2875e8396fce74a8ecc\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.ryanheise.audioserviceexample.app-jetified-core-ktx-1.13.1-19 C:\Users\Cyber Fort\.gradle\caches\transforms-3\bce707caf93e79d73765494b76f8fbf3\transformed\jetified-core-ktx-1.13.1\res
+com.ryanheise.audioserviceexample.app-jetified-exoplayer-core-2.18.7-20 C:\Users\Cyber Fort\.gradle\caches\transforms-3\c5c76ff95b3b3c9f34adbfd368a0ec96\transformed\jetified-exoplayer-core-2.18.7\res
+com.ryanheise.audioserviceexample.app-jetified-lifecycle-process-2.7.0-21 C:\Users\Cyber Fort\.gradle\caches\transforms-3\d1ae5a35538448177f88abb8212d17e3\transformed\jetified-lifecycle-process-2.7.0\res
+com.ryanheise.audioserviceexample.app-lifecycle-livedata-core-2.7.0-22 C:\Users\Cyber Fort\.gradle\caches\transforms-3\dd8865297ff2c2596dc5804adf63196b\transformed\lifecycle-livedata-core-2.7.0\res
+com.ryanheise.audioserviceexample.app-jetified-window-1.2.0-23 C:\Users\Cyber Fort\.gradle\caches\transforms-3\e849cc99143a88dc2e9e922c42a7cb30\transformed\jetified-window-1.2.0\res
+com.ryanheise.audioserviceexample.app-jetified-media2-common-1.2.1-24 C:\Users\Cyber Fort\.gradle\caches\transforms-3\f0741abd503b408e610f0e130480bd24\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audioserviceexample.app-jetified-play-services-base-18.0.1-25 C:\Users\Cyber Fort\.gradle\caches\transforms-3\f1c08883e18cdc120cf423a2cea7b22b\transformed\jetified-play-services-base-18.0.1\res
+com.ryanheise.audioserviceexample.app-jetified-play-services-maps-18.2.0-26 C:\Users\Cyber Fort\.gradle\caches\transforms-3\f54ea2ce58fb144c863c20ce0ffbc313\transformed\jetified-play-services-maps-18.2.0\res
+com.ryanheise.audioserviceexample.app-jetified-android-maps-utils-3.6.0-27 C:\Users\Cyber Fort\.gradle\caches\transforms-3\f75a834267002fc46be97c34d8852087\transformed\jetified-android-maps-utils-3.6.0\res
+com.ryanheise.audioserviceexample.app-debug-28 E:\Test\chicking\android\app\src\debug\res
+com.ryanheise.audioserviceexample.app-main-29 E:\Test\chicking\android\app\src\main\res
+com.ryanheise.audioserviceexample.app-pngs-30 E:\Test\chicking\build\app\generated\res\pngs\debug
+com.ryanheise.audioserviceexample.app-resValues-31 E:\Test\chicking\build\app\generated\res\resValues\debug
+com.ryanheise.audioserviceexample.app-rs-32 E:\Test\chicking\build\app\generated\res\rs\debug
+com.ryanheise.audioserviceexample.app-mergeDebugResources-33 E:\Test\chicking\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.ryanheise.audioserviceexample.app-mergeDebugResources-34 E:\Test\chicking\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.ryanheise.audioserviceexample.app-merged_res-35 E:\Test\chicking\build\app\intermediates\merged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-36 E:\Test\chicking\build\audio_service\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-37 E:\Test\chicking\build\audio_session\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-38 E:\Test\chicking\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-39 E:\Test\chicking\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-40 E:\Test\chicking\build\just_audio\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-41 E:\Test\chicking\build\path_provider_android\intermediates\packaged_res\debug
+com.ryanheise.audioserviceexample.app-packaged_res-42 E:\Test\chicking\build\sqflite\intermediates\packaged_res\debug

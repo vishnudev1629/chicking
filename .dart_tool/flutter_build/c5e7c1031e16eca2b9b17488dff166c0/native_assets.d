@@ -1,0 +1,1 @@
+ E:\\Test\\chicking\\.dart_tool\\flutter_build\\c5e7c1031e16eca2b9b17488dff166c0\\native_assets.yaml: 
